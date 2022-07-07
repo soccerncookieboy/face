@@ -1,0 +1,17 @@
+.heading{
+    width:70%;
+    font-size: 30px;
+}
+body{
+ background-color: pink;
+ text-align: center;
+}
+h3{
+ color: aqua;
+}
+#captureimg{
+    font-size:20px;
+}
+#identifyimg{
+    font-size: 20px;
+}
